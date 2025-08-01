@@ -10,7 +10,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - /ServerBackup/ProjectSettings
+          - /ServerBackup/ProjectSettings/
         testMode:
           - playmode
           - editmode
